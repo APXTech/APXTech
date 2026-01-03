@@ -7,7 +7,6 @@ I am working as a Trainee Engineer with exposure to SOC Level 1 operations, incl
 I also explore and work with various cybersecurity tools, gain understanding of compliance requirements and cyber laws, and handle firewall administration, Active Directory (AD) tasks, and system troubleshooting as part of IT operations.
 
 ---
-
 ## 🛠️ Skills & Tools
 
 ### 🔐 Cyber Security & SOC
