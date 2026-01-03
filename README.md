@@ -38,3 +38,12 @@ I also explore and work with various cybersecurity tools, gain understanding of 
 - Networking (TCP/IP, DNS, DHCP)
 - Incident Reporting & Documentation
 - Compliance Awareness (ISO 27001, IT Policies, Cyber Laws)
+
+## 📂 Work Experience & Exposure
+
+- Managed firewall rule creation, modification, and troubleshooting to ensure network security and smooth operations.
+- Administered Active Directory user accounts, password resets, group policies, and access controls.
+- Monitored security logs and performed Level 1 SOC operations including incident detection and preliminary analysis.
+- Prepared detailed reports on incidents and system performance for higher-level teams.
+- Explored various cybersecurity tools to improve detection and response capabilities.
+- Gained hands-on experience with compliance standards and cyber laws relevant to organizational security.
