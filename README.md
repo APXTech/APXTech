@@ -27,3 +27,14 @@ I also explore and work with various cybersecurity tools, gain understanding of 
 - Password Policies & Account Troubleshooting
 - End-User IT Support
 - System & Application Troubleshooting
+
+## 🧰 Tools & Technologies
+
+- Firewalls (Rule & Policy Management)
+- SIEM (Log Monitoring – SOC Level 1)
+- Active Directory (AD)
+- Windows Server & Client Systems
+- Linux (Basics)
+- Networking (TCP/IP, DNS, DHCP)
+- Incident Reporting & Documentation
+- Compliance Awareness (ISO 27001, IT Policies, Cyber Laws)
