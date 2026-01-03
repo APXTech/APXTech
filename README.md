@@ -1,12 +1,13 @@
 ## Hi 👋, I'm Anurag Pandey
 
-💼 Trainee Engineer – SOC Level 1 | Cyber Security & IT Operations  
+💼 Trainee Engineer at Optimal Cyber Security Pvt Ltd – SOC Level 1 | Cyber Security & IT Operations  
 🎓 B.Tech CSE (Cyber Security) | JNTUH  
 
-I am working as a Trainee Engineer with exposure to SOC Level 1 operations, including log monitoring, incident analysis, and report preparation.  
-I also explore and work with various cybersecurity tools, gain understanding of compliance requirements and cyber laws, and handle firewall administration, Active Directory (AD) tasks, and system troubleshooting as part of IT operations.
+I am working as a Trainee Engineer at Optimal Cyber Security Pvt Ltd, gaining hands-on experience in SOC Level 1 operations, firewall administration, Active Directory, and IT troubleshooting.  
+My role includes log monitoring, incident reporting, compliance understanding, and supporting IT infrastructure security.
 
 ---
+
 ## 🛠️ Skills & Tools
 
 ### 🔐 Cyber Security & SOC
@@ -41,9 +42,14 @@ I also explore and work with various cybersecurity tools, gain understanding of 
 
 ## 📂 Work Experience & Exposure
 
+### Trainee Engineer — Optimal Cyber Security Pvt Ltd  
+*Oct 2025 – Present*
+
 - Managed firewall rule creation, modification, and troubleshooting to ensure network security and smooth operations.
 - Administered Active Directory user accounts, password resets, group policies, and access controls.
 - Monitored security logs and performed Level 1 SOC operations including incident detection and preliminary analysis.
 - Prepared detailed reports on incidents and system performance for higher-level teams.
 - Explored various cybersecurity tools to improve detection and response capabilities.
 - Gained hands-on experience with compliance standards and cyber laws relevant to organizational security.
+
+
